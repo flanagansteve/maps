@@ -1,3 +1,5 @@
+Made with [QGIS](https://qgis.org/)
+
 I used this map to decide how valuable a foldable bike might be in my life. The main reason I was interested in a folding bike was to take it easily on the subway or bus or train, and bike from a station - I had a hunch this could give me near 100% access to MetroWest, all without a car.
 
 Turns out, I was right!
