@@ -33,4 +33,4 @@ This was really fun. The MBTA does a great job posting usable GIS layers to play
 
 1. With just a little more extension, the bus & subway systems could get some big population centres within these 10mi radii - specifically, getting 2 miles closer to Framingham and Lowell would go a long way!
 2. Getting the red line all the way to Brockton seems useful too - subway radii only barely reaches it
-3. I feel so bad for Watertown and Waltham losing their [A Line](https://en.wikipedia.org/wiki/Green_Line_A_branch)! So close yet so far from subway access
+3. I feel so bad for Watertown and Waltham losing their [A Line](https://en.wikipedia.org/wiki/Green_Line_A_branch)! I know they're well within the 10mi bike-ability radii above, but feels like they're just barely outside of walkable distance too, which would be even better
