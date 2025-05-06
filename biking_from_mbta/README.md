@@ -19,7 +19,7 @@ And this is where I can go using only the subway:
 TODO:
 
 1. Add ferry stops + radius around them
-2. Add the 12 RTAs in Mass, or at least the major ones (Worcester, MeVa and Pioneer Valley Authority)
+2. Add the [12 RTAs in Mass](https://www.mass.gov/info-details/public-transportation-in-massachusetts#regional-transit-authorities-), or at least the major ones (Worcester, MeVa and Pioneer Valley Authority)
 3. If I do (2), I am pretty sure I can get to Springfield - I can take the [Worcester RTA](https://wrtamain.wpengine.com/routes-schedules/) to Brookfield, then bike <10 miles to the [Pioneer Valley stop in Ware](https://www.arcgis.com/apps/mapviewer/index.html?webmap=02d27b4a3f4b4dfcb5c4a36087eac30a). Getting to Springfield unlocks the Hartford line, which then unlocks the MTA, and can get me into a fourth, fifth, and sixth state, and includes NYC!!!
 4. Permit >10mi trips if there are protected bike lanes - I am pretty sure there is a nice one that can maybe also get me from Worcester to Springfield
 5. Arguably add Peter Pan buses? Though I'm not sure if they'd let me take on a folding bike
