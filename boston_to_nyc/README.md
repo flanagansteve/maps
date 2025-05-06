@@ -41,7 +41,7 @@ You can get from Boston to NYC with no car and no advanced booking of any kind, 
 
 5. Get from Springfield to New Haven via the CTRail Hartford Line:
 
-![5_springfield_to_nyc](./trip_leg_screenshots/5_springfield_to_nyc.png)
+![5_springfield_to_new_haven](./trip_leg_screenshots/5_springfield_to_new_haven.png)
 
 - Cost: $13.25
 - Time: 1 hour, 39 minutes
