@@ -6,15 +6,15 @@ Turns out, I was right!
 
 This is everywhere I could go using all three systems:
 
-![bikemap_screenshot](./bikemap_screenshot.png)
+![bikemap_screenshot](./screenshots/bikemap_screenshot.png)
 
 This is everywhere I could go only using the high-frequency systems - buses and subways:
 
-![subway_and_bus_screenshot](./subway_and_bus_screenshot.png)
+![subway_and_bus_screenshot](./screenshots/subway_and_bus_screenshot.png)
 
 And this is where I can go using only the subway:
 
-![subway_screenshot](./subway_screenshot.png)
+![subway_screenshot](./screenshots/subway_screenshot.png)
 
 TODO:
 
@@ -28,3 +28,9 @@ TODO:
 8. Host the web export somewhere. It runs really slowly in-browser right now, presumably  because there are so many circles to draw around the bus stops. I could improve this slightly by only drawing a border around a subset of the bus stops - e.g. those that fall outside the subway+CR 10mi circles
 
 This was really fun. The MBTA does a great job posting usable GIS layers to play with, and QGIS was easy to learn - I got to tackle challenges like handling the overlap of my bike-zone radii or filtering the TRAIN_NODES to only include the "real" commuter rail ones (plus cape flyer - I love the cape flyer). Let me know if you have requests or idea to improve this!
+
+### Musings:
+
+1. With just a little more extension, the bus & subway systems could get some big population centres within these 10mi radii - specifically, getting 2 miles closer to Framingham and Lowell would go a long way!
+2. Getting the red line all the way to Brockton seems useful too - subway radii only barely reaches it
+3. I feel so bad for Watertown and Waltham losing their [A Line](https://en.wikipedia.org/wiki/Green_Line_(MBTA\)#Former_branches)! So close yet so far from subway access
