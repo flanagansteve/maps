@@ -15,47 +15,48 @@ You can get from Boston to NYC with no car and no advanced booking of any kind, 
 
 ![1_boston_to_worcester](./trip_leg_screenshots/1_boston_to_worcester.png)
 
-Cost: $12.25
-Time: 1 hour, 45 minutes
+- Cost: $12.25
+- Time: 1 hour, 45 minutes
 
 2. Get from Worcester to Brookfield via a Worcester RTA bus:
 
 ![2_worcester_to_brookfield](./trip_leg_screenshots/2_worcester_to_brookfield.png)
 
-Cost: Free (Worcester RTA has free fare at the moment)
-Time: 55 minutes
+- Cost: Free (Worcester RTA has free fare at the moment)
+- Time: 55 minutes
 
 3. Get from Brookfield to Ware via the B79 PVTA bus:
 
 ![3_brookfield_to_ware](./trip_leg_screenshots/3_brookfield_to_ware.png)
 
-Cost: $3.50 (for our purposes - it's a $1.50 trip, but we want the PVTA day pass, because we have a second PVTA leg coming up)
-Time: 27 minutes
+- Cost: $3.50 (for our purposes - it's a $1.50 trip, but we want the PVTA day pass, because we have a second PVTA leg coming up)
+- Time: 27 minutes
 
 4. Get from Ware to Springfield via the WS PVTA bus, with a transfer in Ludlow to the B17 PVTA bus:
 
 ![4_ware_to_springfield](./trip_leg_screenshots/4_ware_to_springfield.png)
 
-Cost: free with pass
-Time: 1 hour, 36 minutes
+- Cost: free with pass
+- Time: 1 hour, 36 minutes
 
 5. Get from Springfield to New Haven via the CTRail Hartford Line:
 
 ![5_springfield_to_nyc](./trip_leg_screenshots/5_springfield_to_nyc.png)
 
-Cost: $13.25
-Time: 1 hour, 39 minutes
+- Cost: $13.25
+- Time: 1 hour, 39 minutes
 
 6. Get from New Haven to NYC via Metro North Railway:
 
 ![6_new_haven_to_nyc](./trip_leg_screenshots/6_new_haven_to_nyc.png)
 
-Cost: $18.25 if off-peak, $24.50 otherwise
-Time: 2 hours, 2 minutes
+- Cost: $18.25 if off-peak, $24.50 otherwise
+- Time: 2 hours, 2 minutes
 
 ### Totals:
 
 Cost: $47.25 to $53.50, depending on whether you get into New Haven at off-peak hours
+
 Time: 8 hours & 24 minutes on vehicles, plus time spent waiting for transfers. The central and Western mass portions are a big risk here - the PVTA has 4 hour gaps between buses.
 Transfers: 6
 
