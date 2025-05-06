@@ -24,5 +24,7 @@ TODO:
 4. Permit >10mi trips if there are protected bike lanes - I am pretty sure there is a nice one that can maybe also get me from Worcester to Springfield
 5. Arguably add Peter Pan buses? Though I'm not sure if they'd let me take on a folding bike
 6. Arguably add Amtrak? You can bring on a bike, but its less frequent & more expensive, so not really in the spirit of answering the question "What trips can I do with a folding bike + public transit, for similar time and cost to a car"
+7. Add new Fall River + other south coast stop
+8. Host the web export somewhere. It runs really slowly in-browser right now, presumably  because there are so many circles to draw around the bus stops. I could improve this slightly by only drawing a border around a subset of the bus stops - e.g. those that fall outside the subway+CR 10mi circles
 
 This was really fun. The MBTA does a great job posting usable GIS layers to play with, and QGIS was easy to learn - I got to tackle challenges like handling the overlap of my bike-zone radii or filtering the TRAIN_NODES to only include the "real" commuter rail ones (plus cape flyer - I love the cape flyer). Let me know if you have requests or idea to improve this!
