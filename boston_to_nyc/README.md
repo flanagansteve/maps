@@ -58,6 +58,7 @@ You can get from Boston to NYC with no car and no advanced booking of any kind, 
 Cost: $47.25 to $53.50, depending on whether you get into New Haven at off-peak hours
 
 Time: 8 hours & 24 minutes on vehicles, plus time spent waiting for transfers. The central and Western mass portions are a big risk here - the PVTA has 4 hour gaps between buses.
+
 Transfers: 6
 
 ### Notes:
